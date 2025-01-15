@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 01-spring-boot-demo
+
+
+server:
+  port: 8085
