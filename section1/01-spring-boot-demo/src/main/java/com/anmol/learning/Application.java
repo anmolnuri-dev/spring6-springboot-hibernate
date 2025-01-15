@@ -1,4 +1,4 @@
-package com.anmol.udemy;
+package com.anmol.learning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
